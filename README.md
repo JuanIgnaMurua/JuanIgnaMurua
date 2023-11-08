@@ -39,10 +39,10 @@ Mis metas son impulsar y desarrollar mi horizonte profesional y laboral en este 
 
 ### Mis contribuciones:
 ## GitHub Statistics
-[![JuaIgnaMurua GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/JuanIgnaMurua?tab=overview)
+[![JuaIgnaMurua GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanIgnaMurua&show_icons=true&theme=radical)](https://github.com/JuanIgnaMurua?tab=overview)
 <br>
 <a href="https://github.com/JuanignaMurua?tab=overview">
-<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<img align="center" alt="JuanIgnaMurua most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIgnaMurua&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 </a>
 
 
