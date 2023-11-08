@@ -39,6 +39,7 @@ Mis metas son impulsar y desarrollar mi horizonte profesional y laboral en este 
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanIgnaMurua)](https://git.io/streak-stats) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIgnaMurua&layout=compact)](https://github.com/JuanIgnaMurua/github-readme-stats)
+[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIgnaMurua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+)
 
 ---
