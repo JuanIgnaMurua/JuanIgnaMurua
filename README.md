@@ -2,12 +2,9 @@
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/yasin-alhadi/">
+    <a href="www.linkedin.com/in/juan-ignacio-murúa-7333641a8">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=YasinAlhadi&style=flat-square&color=blue" alt=""/>
-  </div>
   <h1>
    Hola!!, Soy Juan Ignacio Murua.😃
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
