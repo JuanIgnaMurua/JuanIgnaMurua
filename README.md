@@ -15,8 +15,8 @@
   
   ---
 
-### :Acerca de mí :
-Estoy finalizando el 2° año de la Tecnicatura Universitaria de Programación en la Universidad Tecnológica Nacional (UTN) Facultad regional San Rafael-. 
+### Acerca de mí :
+Estoy finalizando el 2° año de la Tecnicatura Universitaria de Programación en la Universidad Tecnológica Nacional (UTN) Facultad regional San Rafael. 
 Mis metas son impulsar y desarrollar mi horizonte profesional y laboral en este apasionante mundo del desarrollo web y software.
 
 - :mailbox:Linkedin [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/juan-ignacio-murúa-7333641a8)
@@ -37,9 +37,10 @@ Mis metas son impulsar y desarrollar mi horizonte profesional y laboral en este 
 
   ---
 
-### :Mis contribuciones:
+### Mis contribuciones:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanIgnaMurua)](https://git.io/streak-stats) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIgnaMurua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
